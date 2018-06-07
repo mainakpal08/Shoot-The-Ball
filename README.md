@@ -4,7 +4,8 @@ A game developed using Processing and implemented the idea of processing.js. Her
 
 
 ## :zap: Demo:
-![gif](/Peek 2018-06-07 21-43.gif)
+
+ ![gif](/gif_final.gif)
  
 ## :zap: Author:
 Mainak Pal
